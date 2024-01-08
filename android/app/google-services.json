@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "449946576177",
+    "project_id": "flash-chat-ios13-f68c1",
+    "storage_bucket": "flash-chat-ios13-f68c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449946576177:android:81b51b747ebe58f2b77c10",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449946576177-nn2ifq3s7e2eajiih05qn70pnl838u7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAViGJwOQrAgwAOuLPi_-zOkC-Tucm3Qug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449946576177-nn2ifq3s7e2eajiih05qn70pnl838u7q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "449946576177-l1krevhisst8ursq0dhg6mlem23fk8uv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.darshitgoyani.Flash-Chat-iOS13"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
